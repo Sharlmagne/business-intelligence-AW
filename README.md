@@ -7,3 +7,4 @@ Adventure Works is a bicycle sales shop that wanted insights on their business p
 Data was modelled from scratch using sales and customer data stored in csv files. The data required transformation using the query editor, along with the creation of several useful columns.
 In addition, DAX measures were heavily used to combine information from various tables to provide insights on customers behaviour, and product performances.
 
+![snapshot](/snapshot/snapshots.jpg)
